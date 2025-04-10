@@ -63,10 +63,3 @@ It is created using Node Js, Typescript, React Js, Redux, MongoDB, Firebase, Exp
 2.  Create a new `.env` file in client folder and add the environment variables as mentioned in `.env.sample` file
 
 3. Run `npm run dev` to start the frontend
-
-
-## Author's Social Links 🖥️
-
-- [Twitter](https://twitter.com/rahu__24)
-- [LinkedIn](https://www.linkedin.com/in/rahu24/)
-- [Instagram](https://www.instagram.com/rahu__24/)
