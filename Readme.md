@@ -1,65 +1,137 @@
-## DigiKaan is an online store where users can buy different products of different categories.
+# Sabat MERN Firebase E-commerce 🛒
 
-## Description 
-It is created using Node Js, Typescript, React Js, Redux, MongoDB, Firebase, Express Js, Saas and Stripe for payment gateway. It is a full stack application where users are authenticated with Firebase and their information is stored in MongoDB. There are two types of users. One is admin and other is customer. Admin can list the products, delete products/users, update products and also update the status of products like Shipped, Delivered etc. Customers have to login and search for their products after this they add the desired products to cart. Then they go to cart and Checkout from there. The order is finally placed after entering the shipping details and payment details.
+![GitHub release](https://img.shields.io/github/release/alpajar05/sabat-mern-firebase-ecommerce-2.svg)
+![GitHub issues](https://img.shields.io/github/issues/alpajar05/sabat-mern-firebase-ecommerce-2.svg)
+![GitHub stars](https://img.shields.io/github/stars/alpajar05/sabat-mern-firebase-ecommerce-2.svg)
 
-## Admin's Dashboard 
+Welcome to **Sabat MERN Firebase E-commerce**, a modern e-commerce application built with a powerful stack. This project utilizes React, Typescript, Sass, Firebase, MongoDB, Node.js, and Express. It aims to provide a seamless shopping experience for users while showcasing the capabilities of these technologies.
 
-#### Analyse everything
-![alt text](assets/admin_d1.png)
-![alt text](assets/admin_d7.png)
-![alt text](assets/admin_d9.png)
-![alt text](assets/admin_d8.png)
+## Table of Contents
 
-#### Manage Products
-![alt text](assets/admin_d2.png)
-![alt text](assets/admin_d3.png)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-#### Manage Users
-![alt text](assets/admin_d4.png)
+## Features
 
-#### See Transactions
-![alt text](assets/admin_d5.png)
+- **User Authentication**: Secure login and registration using Firebase Authentication.
+- **Product Management**: Add, edit, and delete products with ease.
+- **Shopping Cart**: Users can add items to their cart and proceed to checkout.
+- **Payment Integration**: Use Stripe for secure payments.
+- **Responsive Design**: The app looks great on both desktop and mobile devices.
+- **Real-time Database**: Firebase ensures that product data is always up-to-date.
+- **Redux for State Management**: Manage application state effectively using Redux and RTK Query.
 
-#### Manage Order
-![alt text](assets/admin_d6.png)
+## Tech Stack
 
-#### Relax Yourself!
-![alt text](assets/admin_d10.png)
-![alt text](assets/admin_d11.png)
+This project is built using the following technologies:
 
-## What your customers will see?
-#### Home
-![alt text](assets/home.png)
-#### Product Info Page
-![alt text](assets/singleProduct.png)
-#### Search
-![alt text](assets/Search.png)
-#### Cart
-![alt text](assets/Cart.png)
-#### Shipping Details
-![alt text](assets/Shipping.png)
-#### Payment
-![alt text](assets/Pay.png)
-#### Your Orders 
-![alt text](assets/orders.png)
+- **Frontend**: 
+  - React
+  - Typescript
+  - Sass
+  - Redux
+  - RTK Query
 
-## Setup Guide
+- **Backend**:
+  - Node.js
+  - Express
+  - MongoDB
+  - Firebase
 
-#### Server Setup
+## Installation
 
-1. Open the terminal in `server`folder and run `npm install`
+To get started with this project, follow these steps:
 
-2. Create a new `.env` file in server folder and add the environment variables as mentioned in `.env.sample` file
+1. **Clone the repository**:
 
-3. Please create and `uploads` folder in root directory
+   ```bash
+   git clone https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2.git
+   ```
 
-4. Run `npm run dev` to start the server
+2. **Navigate to the project directory**:
 
-#### Frontend Setup
+   ```bash
+   cd sabat-mern-firebase-ecommerce-2
+   ```
 
-1. Open terminal `client` folder and run `npm install`
+3. **Install dependencies**:
 
-2.  Create a new `.env` file in client folder and add the environment variables as mentioned in `.env.sample` file
+   For the frontend:
 
-3. Run `npm run dev` to start the frontend
+   ```bash
+   cd client
+   npm install
+   ```
+
+   For the backend:
+
+   ```bash
+   cd server
+   npm install
+   ```
+
+4. **Set up environment variables**:
+
+   Create a `.env` file in the `server` directory and add your Firebase and MongoDB credentials.
+
+5. **Run the application**:
+
+   Start the backend server:
+
+   ```bash
+   cd server
+   npm start
+   ```
+
+   Start the frontend:
+
+   ```bash
+   cd client
+   npm start
+   ```
+
+Visit `http://localhost:3000` to see the application in action.
+
+## Usage
+
+Once the application is running, you can explore its features:
+
+- **Browse Products**: Navigate through the product listings.
+- **Add to Cart**: Click on products to add them to your shopping cart.
+- **Checkout**: Proceed to checkout and make payments securely using Stripe.
+
+For downloadable files and execution instructions, please visit the [Releases](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/releases) section.
+
+## Contributing
+
+We welcome contributions! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Create a pull request.
+
+Please ensure your code adheres to the project's coding standards and is well-documented.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+- **GitHub**: [alpajar05](https://github.com/alpajar05)
+- **Email**: your-email@example.com
+
+---
+
+For downloadable files and execution instructions, please visit the [Releases](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/releases) section. 
+
+Thank you for checking out **Sabat MERN Firebase E-commerce**! We hope you find it useful and inspiring.
